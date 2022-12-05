@@ -9,6 +9,7 @@ fn main() {
 }
 
 fn five() -> i32 {
+    // There is no semicolon after the return value
     5
 }
 
